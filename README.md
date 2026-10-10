@@ -42,7 +42,7 @@ python -m pip install torch torchvision
 python -m pip install transformers datasets scikit-learn peft tqdm numpy
 ```
 
-This Repo uses CUDA when available and otherwise runs on CPU. A CUDA-capable GPU is recommended for training.
+This Repo uses CUDA when available and otherwise runs on CPU.
 
 ## Run
 
